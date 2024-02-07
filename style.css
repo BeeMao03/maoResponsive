@@ -91,6 +91,14 @@ p {
   #btnPage {
     text-align: center;
   }
+
+  .email-link {
+    font-size: 15px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
 }
 
 @media (max-width: 576px) {
